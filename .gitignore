@@ -2,5 +2,5 @@ node_modules
 dist
 .env
 0-02-05-*.jpg
-CateringApp.jsx
-Instruct*.docx
+src/CateringApp.jsx
+**/Instruct*.docx
